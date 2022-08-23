@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @吴君浩
 - 👀 I’m interested in bike
-- 🌱 I’m currently learning mac
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on vocabul
 - 📫 How to reach me wjh4513_chdjh@qq.com
 
